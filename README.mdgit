@@ -1,0 +1,2 @@
+"# fathe_base"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Fathedake/fathe_base.gitgit push -u origin main
+"# fathe_base" 
