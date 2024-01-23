@@ -8,7 +8,7 @@ import Count from './components/Count.vue';
   <header>
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
 
-    <div class="wrapper">
+    <div class="">
       <Count />
       <!--<HelloWorld msg="You did it!" />-->
 

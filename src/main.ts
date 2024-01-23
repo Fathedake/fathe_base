@@ -1,4 +1,7 @@
 import './assets/main.css'
+//import css of PrimeVue
+import 'primevue/resources/themes/lara-light-green/theme.css'
+
 
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
