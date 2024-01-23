@@ -1,5 +1,8 @@
 <script setup lang="ts">
+
 import { ref } from 'vue'
+
+import Button from 'primevue/button';
 
 const count = ref(0)
 
@@ -9,7 +12,5 @@ function increment() {
 </script>
 
 <template>
-  <button @click="increment">
-    {{ count }}
-  </button>
+  <Button  @click="increment" label="Primary" rounded>  {{ count }} </Button>
 </template>
